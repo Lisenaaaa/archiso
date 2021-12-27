@@ -1,0 +1,3 @@
+this is alyssa's archiso version
+
+all it has is an actually good archinstall script, and this txt file
